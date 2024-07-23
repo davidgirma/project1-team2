@@ -11,6 +11,10 @@ Crear los graficos en python
 Juntar todo en un powerpoint
 Exponer
 
+Alcance:
+Temporalidad de 10 años del 2014 al 2024
+Moneda USD
+Pais Mexico
 
 Preguntas:
 Ricardo
@@ -19,9 +23,8 @@ Que sector ha tenido el mayor crecimiento del pais.
 A que paises exportamos mas.
 
 Ricardo
-Que años el crecimiento del pais fue mas acelerado.
-Que años el crecimiento del pais fue menos acelerado.
-Que crisis economica afecto mas duro al pais entre la del covid y la housing market
+Que sector fue mas afectado por el covid en exportaciones.
+Que sector fue el mas afectado por el covid en PIB.
 
 Elena:
 Que paises son los principales inversores en Mexico y en que sectores invierten
@@ -29,6 +32,13 @@ Que paises son los principales inversores en Mexico y en que sectores invierten
 David:
 Mexico a que paises le compra y que le compra.
 
+Gerardo:
+Que estado tiene mayor exportasiones al extranjero
+Cual es la industria que genera el mayor volumen de exportacion
+
+
+Martha:
+Que paises son los que invierten mas en méxico y que sectores
 
 
 Datasources Owners:
@@ -44,7 +54,11 @@ Si vamos a usar foreign direct investment -> como relacionarlo a tiempo, o en qu
 Producto interno bruto anual.csv -> verificar en que moneda esta el GDP.
 
 
-
+A calificar:
 Clean Datasources 
 visualizations
 summarizing findings
+
+
+Objetivo:
+6 a 8 charts
