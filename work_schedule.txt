@@ -11,6 +11,8 @@ Crear los graficos en python
 Juntar todo en un powerpoint
 Exponer
 
+Alcance:
+Temporalidad de 10 años del 2014 al 2024
 
 Preguntas:
 Ricardo
