@@ -1,0 +1,248 @@
+"Continent ID","Continent","Country ID","Country","Trade Value","Share"
+"af","Africa","ago","Angola",87223,0.00002291211775124804
+"af","Africa","bdi","Burundi",21936,0.000005762244075431675
+"af","Africa","ben","Benin",1508,3.9612801175013516e-7
+"af","Africa","bfa","Burkina Faso",3829,0.0000010058184064928832
+"af","Africa","bwa","Botswana",27918,0.000007333621904535992
+"af","Africa","caf","Central African Republic",299262,0.00007861144632119957
+"af","Africa","civ","Cote d'Ivoire",72382413,0.019013727683930462
+"af","Africa","cmr","Cameroon",6951997,0.0018261808682380005
+"af","Africa","cod","Democratic Republic of the Congo",37909,0.0000099581013245596
+"af","Africa","cog","Republic of the Congo",902816,0.00023715564128395895
+"af","Africa","com","Comoros",34401,0.000009036604596960478
+"af","Africa","cpv","Cape Verde",36866,0.000009684121539244353
+"af","Africa","dji","Djibouti",64908,0.00001705031630416298
+"af","Africa","dza","Algeria",31989653,0.008403181458532326
+"af","Africa","egy","Egypt",45852684,0.012044782855654666
+"af","Africa","eri","Eritrea",7999,0.0000021012121790380184
+"af","Africa","esh","Western Sahara",70217,0.000018444907560384112
+"af","Africa","eth","Ethiopia",5421368,0.001424108572152392
+"af","Africa","gab","Gabon",12286420,0.0032274503488906475
+"af","Africa","gha","Ghana",2304475,0.0006053495357280456
+"af","Africa","gin","Guinea",11021,0.0000028950443086858354
+"af","Africa","gmb","Gambia",173526,0.000045582565893205544
+"af","Africa","gnb","Guinea-Bissau",8156,0.0000021424536232321635
+"af","Africa","gnq","Equatorial Guinea",8904307,0.0023390221670575666
+"af","Africa","ken","Kenya",11785974,0.0030959910127047667
+"af","Africa","lbr","Liberia",2561175,0.0006727806104072629
+"af","Africa","lby","Libya",39705,0.000010429882431391988
+"af","Africa","lso","Lesotho",3161226,0.0008304046220642128
+"af","Africa","mar","Morocco",326175707,0.0856812561638625
+"af","Africa","mdg","Madagascar",3521681,0.0009250905122998859
+"af","Africa","mli","Mali",2075029,0.0005450776605397024
+"af","Africa","moz","Mozambique",11068015,0.0029073944137736557
+"af","Africa","mrt","Mauritania",417648,0.00010970959671844858
+"af","Africa","mus","Mauritius",3521946,0.0009251601236547358
+"af","Africa","mwi","Malawi",41432,0.000010883538317527587
+"af","Africa","myt","Mayotte",304608,0.00008001575689866392
+"af","Africa","nam","Namibia",99341746,0.026095522763108055
+"af","Africa","ner","Niger",223779,0.00005878324293198508
+"af","Africa","nga","Nigeria",23710958,0.006228497778004617
+"af","Africa","reu","Reunion",70849,0.000018610924074592392
+"af","Africa","rwa","Rwanda",361149,0.00009486819318007266
+"af","Africa","sdn","Sudan",335754,0.00008819732391058016
+"af","Africa","sen","Senegal",27058956,0.0071079644829671025
+"af","Africa","shn","Saint Helena",387696,0.00010184167482989417
+"af","Africa","sle","Sierra Leone",8147835,0.00214030880544971
+"af","Africa","som","Somalia",47551,0.000012490903903667558
+"af","Africa","stp","Sao Tome and Principe",103885,0.00002728896452298594
+"af","Africa","swz","Eswatini",13489789,0.0035435565620018862
+"af","Africa","syc","Seychelles",4497319,0.0011813753538966222
+"af","Africa","tcd","Chad",19238,0.000005053521677751393
+"af","Africa","tgo","Togo",637,1.6732993599790194e-7
+"af","Africa","tun","Tunisia",49331670,0.012958658059292966
+"af","Africa","tza","Tanzania",1431243,0.0003759651484889249
+"af","Africa","uga","Uganda",4777897,0.0012550788056743605
+"af","Africa","zaf","South Africa",508401715,0.133549178072486
+"af","Africa","zmb","Zambia",146083,0.00003837371905868368
+"af","Africa","zwe","Zimbabwe",1839561,0.000483223900147938
+"at","Antarctica","ata","Antarctica",908073,0.000238536572953568
+"at","Antarctica","atf","French South Antarctic Territory",5828,0.0000015309244379839442
+"as","Asia","afg","Afghanistan",1939616,0.0005095067835800731
+"as","Asia","are","United Arab Emirates",323323242,0.08493195822683541
+"as","Asia","arm","Armenia",375759,0.0000987060116493495
+"as","Asia","aze","Azerbaijan",97217,0.00002553738522434542
+"as","Asia","bgd","Bangladesh",292041012,0.07671460572483911
+"as","Asia","bhr","Bahrain",66591508,0.017492547522203725
+"as","Asia","brn","Brunei",537247,0.00014112638324186
+"as","Asia","btn","Bhutan",122374,0.00003214573561665189
+"as","Asia","cck","Cocos (Keeling) Islands",54606,0.000014344142048824856
+"as","Asia","chn","China",73153661491,19.21632259858903
+"as","Asia","cxr","Christmas Island",19971,0.000005246069312110047
+"as","Asia","cyp","Cyprus",24798157,0.006514087949255767
+"as","Asia","geo","Georgia",16160257,0.004245046733939791
+"as","Asia","hkg","Hong Kong",400998550,0.10533604663540264
+"as","Asia","idn","Indonesia",1462166470,0.3840882603506722
+"as","Asia","ind","India",4201007601,1.103538984304599
+"as","Asia","iot","British Indian Ocean Territory",7520,0.000001975386371592186
+"as","Asia","irn","Iran",3178094,0.0008348355818136831
+"as","Asia","irq","Iraq",6359,0.0000016704098320418498
+"as","Asia","isr","Israel",652276377,0.17134280128155943
+"as","Asia","jor","Jordan",28738115,0.007549053286735236
+"as","Asia","jpn","Japan",13872361428,3.6440523546106807
+"as","Asia","kaz","Kazakhstan",3651935,0.0009593062006569827
+"as","Asia","kgz","Kyrgyzstan",196188,0.00005153551881249039
+"as","Asia","khm","Cambodia",151663282,0.03983957185289129
+"as","Asia","kor","South Korea",14630933193,3.8433172916393548
+"as","Asia","kwt","Kuwait",4904777,0.0012884081970078202
+"as","Asia","lao","Laos",41474969,0.010894825601703245
+"as","Asia","lbn","Lebanon",1763837,0.0004633323898284636
+"as","Asia","lka","Sri Lanka",182054947,0.047822986859672574
+"as","Asia","mac","Macau",2297044,0.0006033975282643087
+"as","Asia","mdv","Maldives",30186,0.00000792939002830874
+"as","Asia","mmr","Burma",63629460,0.0167144638451822
+"as","Asia","mng","Mongolia",206754,0.000054311041738320586
+"as","Asia","mys","Malaysia",10829093491,2.8446334705876395
+"as","Asia","npl","Nepal",9053370,0.0023781786855028657
+"as","Asia","omn","Oman",46602582,0.012241769330293526
+"as","Asia","pak","Pakistan",178818133,0.046972726452361564
+"as","Asia","phl","Philippines",2767959267,0.7270996028130449
+"as","Asia","pse","Palestine",31290,0.00000821939355945738
+"as","Asia","qat","Qatar",41090169,0.0107937446607739
+"as","Asia","sau","Saudi Arabia",106145440,0.027882746753012777
+"as","Asia","sgp","Singapore",1769684346,0.46486839615803605
+"as","Asia","syr","Syria",261989,0.00006882041224827996
+"as","Asia","tha","Thailand",5317507930,1.3968261563504492
+"as","Asia","tjk","Tajikistan",91729,0.000024095773468055804
+"as","Asia","tkm","Turkmenistan",2937004,0.0007715050099616671
+"as","Asia","tmp","Timor Oriental",2301,6.044367075842581e-7
+"as","Asia","tur","Turkey",814171638,0.21387015396836262
+"as","Asia","twn","Taiwan (Republic of China)",8743125509,2.2966823105849197
+"as","Asia","uzb","Uzbekistan",449670,0.0001181212752279067
+"as","Asia","vnm","Vietnam",6592710762,1.731801993497864
+"as","Asia","yem","Yemen",13615,0.0000035764475331419696
+"eu","Europe","alb","Albania",6564450,0.001724378333377437
+"eu","Europe","and","Andorra",315195,0.00008279679619601051
+"eu","Europe","ant","Netherlands Antilles",16967405,0.004457071888069829
+"eu","Europe","aut","Austria",1641988220,0.4313246212902809
+"eu","Europe","bel","Belgium",935447990,0.2457275546249074
+"eu","Europe","bgr","Bulgaria",105692553,0.027763780422205432
+"eu","Europe","bih","Bosnia and Herzegovina",18155798,0.0047692441402367915
+"eu","Europe","blr","Belarus",20692413,0.005435573222813428
+"eu","Europe","che","Switzerland",1463253697,0.3843738578770854
+"eu","Europe","cze","Czech Republic",1353581277,0.3555646286473601
+"eu","Europe","deu","Germany",13840775462,3.6357552154125456
+"eu","Europe","dnk","Denmark",766143100,0.20125380830178052
+"eu","Europe","emu","European Community",29996509,0.00787961370664127
+"eu","Europe","esp","Spain",3740830674,0.9826577037039378
+"eu","Europe","est","Estonia",49802165,0.01308224973627465
+"eu","Europe","fin","Finland",446798600,0.11736700336256231
+"eu","Europe","fra","France",3383390753,0.8887638275594714
+"eu","Europe","fro","Faroe Islands",1491,3.9166237766541886e-7
+"eu","Europe","gbr","United Kingdom",1803161527,0.47366232795414304
+"eu","Europe","gib","Gibraltar",126059,0.00003311372747560364
+"eu","Europe","grc","Greece",165828184,0.043560470039824654
+"eu","Europe","hrv","Croatia",35181668,0.009241673869292677
+"eu","Europe","hun","Hungary",1176169999,0.3089614609973664
+"eu","Europe","imn","Isle of Man",1035,2.718783104518501e-7
+"eu","Europe","irl","Ireland",1842708352,0.4840506602872203
+"eu","Europe","isl","Iceland",20387091,0.0053553699092832065
+"eu","Europe","ita","Italy",4810917972,1.2637528985022233
+"eu","Europe","jey","Jersey",3797,9.974125070392993e-7
+"eu","Europe","lie","Liechtenstein",29215981,0.007674581210119182
+"eu","Europe","ltu","Lithuania",39969563,0.010499378993177566
+"eu","Europe","lux","Luxembourg",62089019,0.016309814090176636
+"eu","Europe","lva","Latvia",14349915,0.0037694982080460487
+"eu","Europe","mco","Monaco",4054535,0.0010650629231573835
+"eu","Europe","mda","Moldova",1210019,0.0003178530640914369
+"eu","Europe","mkd","Macedonia",20829102,0.005471479285013769
+"eu","Europe","mlt","Malta",46134999,0.01211894259016212
+"eu","Europe","mne","Montenegro",165720,0.000043532051795246954
+"eu","Europe","nld","Netherlands",2031565825,0.5336605643214676
+"eu","Europe","nor","Norway",176102379,0.04625934035659069
+"eu","Europe","pol","Poland",1146606242,0.30119552447198567
+"eu","Europe","prt","Portugal",462376558,0.12145908925756703
+"eu","Europe","rke","Channel Islands",1063,2.792334724737359e-7
+"eu","Europe","rou","Romania",491636171,0.12914513191159116
+"eu","Europe","rus","Russia",857285354,0.22519545277356157
+"eu","Europe","sjm","Svalbard and Jan Mayen",7685,0.0000020187292906497276
+"eu","Europe","smr","San Marino",2789753,0.0007328244755729276
+"eu","Europe","srb","Serbia",62758946,0.01648579343402792
+"eu","Europe","svk","Slovakia",335671130,0.08817555525783896
+"eu","Europe","svn","Slovenia",116448314,0.030589150594479732
+"eu","Europe","swe","Sweden",818513309,0.215010643027317
+"eu","Europe","ukr","Ukraine",120478028,0.03164769342918907
+"eu","Europe","vat","Vatican City",115852,0.000030432508234268346
+"eu","Europe","yug","Yugoslavia",40145,0.000010545463548878764
+"na","North America","abw","Aruba",2630106,0.0006908877058833562
+"na","North America","aia","Anguilla",100612,0.000026429198619499073
+"na","North America","atg","Antigua and Barbuda",780064,0.00020491061098001158
+"na","North America","bes","Bonaire",8317592,0.002184901313997898
+"na","North America","bhs","Bahamas",75818,0.0000199162026491192
+"na","North America","blm","Saint Barthélemy",5845,0.0000015353900720686606
+"na","North America","blz","Belize",1694001,0.0004449875650084488
+"na","North America","bmu","Bermuda",79888,0.000020985327985871884
+"na","North America","brb","Barbados",876417,0.00023022103691911026
+"na","North America","can","Canada",8250136534,2.167181818223191
+"na","North America","cri","Costa Rica",714594837,0.1877128859335026
+"na","North America","cub","Cuba",12920455,0.0033940014257673027
+"na","North America","cuw","Curaçao",445750,0.00011709155254484268
+"na","North America","cym","Cayman Islands",305770,0.00008032099612257217
+"na","North America","dma","Dominica",445843,0.00011711598219012966
+"na","North America","dom","Dominican Republic",202338993,0.053151288459293455
+"na","North America","glp","Guadeloupe",52486,0.00001378725121002493
+"na","North America","grd","Grenada",8373,0.0000021994561289017783
+"na","North America","grl","Greenland",714692,0.00018773840913377163
+"na","North America","gtm","Guatemala",481740548,0.12654570653757333
+"na","North America","hnd","Honduras",412094642,0.10825081643789373
+"na","North America","hti","Haiti",25555984,0.006713157248168612
+"na","North America","jam","Jamaica",1061608,0.000278867815847505
+"na","North America","kna","Saint Kitts and Nevis",350740,0.00009213391169843661
+"na","North America","lca","Saint Lucia",30449,0.000007998476014442882
+"na","North America","maf","Saint Maarten",99,2.600575143452479e-8
+"na","North America","msr","Montserrat",356159,0.00009355739823402945
+"na","North America","mtq","Martinique",56651,0.000014881331560780442
+"na","North America","nic","Nicaragua",238602032,0.0626770215753993
+"na","North America","pan","Panama",33090604,0.008692384065073654
+"na","North America","pcz","Panama Canal Zone",83413,0.000021911290347555722
+"na","North America","pri","Puerto Rico",441560658,0.11599107793144657
+"na","North America","slv","El Salvador",198220652,0.05206946469799434
+"na","North America","spm","Saint Pierre and Miquelon",20080,0.000005274701907123817
+"na","North America","sxm","Saint Martin",4029,0.0000010583552780777816
+"na","North America","tca","Turks and Caicos Islands",16651,0.000004373957243800731
+"na","North America","tto","Trinidad and Tobago",240246765,0.06310906720746152
+"na","North America","usa","United States",166652490318,43.77700241570159
+"na","North America","vct","Saint Vincent and the Grenadines",5774,0.0000015167394826560216
+"na","North America","vgb","British Virgin Islands",22822607,0.005995141865958035
+"na","North America","vir","Virgin Islands",525389,0.00013801147212559137
+"oc","Oceania","asm","American Samoa",124034,0.000032581791650806546
+"oc","Oceania","aus","Australia",267548664,0.07028084901639586
+"oc","Oceania","cok","Cook Islands",148282,0.000038951361961759644
+"oc","Oceania","fji","Fiji",3437676,0.0009030237128124389
+"oc","Oceania","fsm","Micronesia",181893,0.00004778044591595977
+"oc","Oceania","gum","Guam",23327,0.000006127638017304644
+"oc","Oceania","hmd","Heard and McDonald Islands",3267,8.58189797339318e-7
+"oc","Oceania","kir","Kiribati",1444531,0.00037945569823702555
+"oc","Oceania","mhl","Marshall Islands",66896,0.000017572532807716872
+"oc","Oceania","mnp","Northern Mariana Islands",43733,0.000011487975025111846
+"oc","Oceania","ncl","New Caledonia",258371,0.00006787002024130913
+"oc","Oceania","nfk","Norfolk Island",24164,0.000006347504824887444
+"oc","Oceania","niu","Niue",6950,0.0000018256562875752252
+"oc","Oceania","nru","Nauru",6882339,0.0018078828012336962
+"oc","Oceania","nzl","New Zealand",303983668,0.0798517546481122
+"oc","Oceania","pcn","Pitcairn Islands",228105,0.00005991961546436644
+"oc","Oceania","plw","Palau",207842,0.000054596842319742436
+"oc","Oceania","png","Papua New Guinea",152840,0.00004014867726517948
+"oc","Oceania","pyf","French Polynesia",21250,0.000005582042605895473
+"oc","Oceania","slb","Solomon Islands",20956,0.000005504813404665672
+"oc","Oceania","tkl","Tokelau",40422,0.000010618227116023849
+"oc","Oceania","ton","Tonga",33581,0.000008821203423462395
+"oc","Oceania","tuv","Tuvalu",4173,0.0000010961818256189086
+"oc","Oceania","vut","Vanuatu",217216,0.00005705924549092664
+"oc","Oceania","wlf","Wallis and Futuna",2652,6.96638917215755e-7
+"oc","Oceania","wsm","Samoa",633904,0.00016651666522576772
+"sa","South America","arg","Argentina",582601182,0.1530402174197206
+"sa","South America","bol","Bolivia",30012150,0.007883722352683567
+"sa","South America","bra","Brazil",5582090553,1.4663278727911822
+"sa","South America","bvt","Bouvet Island",19774,0.000005194320493598921
+"sa","South America","chl","Chile",1289111324,0.33862938043813284
+"sa","South America","col","Colombia",964502683,0.25335976800030563
+"sa","South America","ecu","Ecuador",129672147,0.03406284467538545
+"sa","South America","flk","Falkland Islands",30433,0.00000799427306471609
+"sa","South America","guf","French Guiana",14825,0.000003894295606230606
+"sa","South America","guy","Guyana",7007759,0.001840828673404586
+"sa","South America","per","Peru",566547155,0.14882307564512312
+"sa","South America","pry","Paraguay",72645804,0.019082916379648554
+"sa","South America","sur","Suriname",339969,0.0000893045384792319
+"sa","South America","ury","Uruguay",297192268,0.0780677600997038
+"sa","South America","ven","Venezuela",16516129,0.004338528741763096
