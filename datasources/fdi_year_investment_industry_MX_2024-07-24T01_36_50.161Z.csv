@@ -1,0 +1,60 @@
+Investment Type ID,Investment Type,Sector ID,Sector,Investment,Count
+1,Accounts between Companies,11,"Agriculture, Animal Breeding and Production, Forestry, Fishing and Hunting",554.8370971679688,204
+1,Accounts between Companies,21,Mining,2705.438674926758,623
+1,Accounts between Companies,22,"Electric Power Generation, Transmission, Distribution and Commercialization, Water and Natural Gas Supply through Pipelines to Final Consumers",6146.043104887009,592
+1,Accounts between Companies,23,Construction,1421.285020828247,506
+1,Accounts between Companies,31-33,Manufacturing,38797.37077331543,15949
+1,Accounts between Companies,43,Wholesale Trade,1951.4889450073242,1829
+1,Accounts between Companies,46,Retail Trade,728.4904193878174,280
+1,Accounts between Companies,48-49,"Transportation, Postal Services and Warehousing",5449.889393985271,309
+1,Accounts between Companies,51,Mass Media Information,537.7930583953857,437
+1,Accounts between Companies,52,Financial and Insurance Services,4404.400594711304,505
+1,Accounts between Companies,53,Real Estate Services and Tangible and Intangible Goods Rental and Leasing,1952.8616161346436,353
+1,Accounts between Companies,54,"Professional, Scientific and Technical Services",429.72210216522217,574
+1,Accounts between Companies,56,"Business Support Services, Waste Management and Remediation Services",-43.94418525695801,211
+1,Accounts between Companies,61,Educational Services,33.61958336830139,9
+1,Accounts between Companies,62,Health Care and Social Assistance Services,0,0
+1,Accounts between Companies,71,Cultural and Sporting Recreation Services and other Recreational Services,3.743552803993225,52
+1,Accounts between Companies,72,Temporary Accommodation Services and Food and Beverage Preparation Services,1048.0487332344055,179
+1,Accounts between Companies,81,"Other Services, except Government Activities",100.62557178735733,69
+1,Accounts between Companies,93,"Legislative, Governmental and Justice Administration Activities, and Activities of International and Extraterritorial Organizations",0,0
+2,New Investments,11,"Agriculture, Animal Breeding and Production, Forestry, Fishing and Hunting",487.45035469532013,194
+2,New Investments,21,Mining,10517.094100952148,633
+2,New Investments,22,"Electric Power Generation, Transmission, Distribution and Commercialization, Water and Natural Gas Supply through Pipelines to Final Consumers",2798.948003768921,655
+2,New Investments,23,Construction,4730.620043754578,1306
+2,New Investments,31-33,Manufacturing,47056.61125469208,4143
+2,New Investments,43,Wholesale Trade,2684.535757124424,3226
+2,New Investments,46,Retail Trade,2826.9903774261475,886
+2,New Investments,48-49,"Transportation, Postal Services and Warehousing",8947.866337852087,481
+2,New Investments,51,Mass Media Information,7405.166488647461,769
+2,New Investments,52,Financial and Insurance Services,8382.4837038517,1026
+2,New Investments,53,Real Estate Services and Tangible and Intangible Goods Rental and Leasing,1956.2503625564277,2027
+2,New Investments,54,"Professional, Scientific and Technical Services",1040.940197646618,3643
+2,New Investments,55,Management and Administration of Business Groups or Corporations,17.560032963752747,8
+2,New Investments,56,"Business Support Services, Waste Management and Remediation Services",2501.1872787475586,902
+2,New Investments,61,Educational Services,170.00906359404325,99
+2,New Investments,62,Health Care and Social Assistance Services,86.55408787727356,212
+2,New Investments,71,Cultural and Sporting Recreation Services and other Recreational Services,593.0724813342094,320
+2,New Investments,72,Temporary Accommodation Services and Food and Beverage Preparation Services,10632.507843017578,38652
+2,New Investments,81,"Other Services, except Government Activities",69.68799632042646,296
+2,New Investments,93,"Legislative, Governmental and Justice Administration Activities, and Activities of International and Extraterritorial Organizations",0,0
+3,Reinvestment of Profits,11,"Agriculture, Animal Breeding and Production, Forestry, Fishing and Hunting",1112.749093055725,100
+3,Reinvestment of Profits,21,Mining,12815.215927124023,270
+3,Reinvestment of Profits,22,"Electric Power Generation, Transmission, Distribution and Commercialization, Water and Natural Gas Supply through Pipelines to Final Consumers",1703.7342643737793,165
+3,Reinvestment of Profits,23,Construction,7129.996170043945,331
+3,Reinvestment of Profits,31-33,Manufacturing,84779.86074829102,4800
+3,Reinvestment of Profits,43,Wholesale Trade,4041.3146476745605,570
+3,Reinvestment of Profits,46,Retail Trade,8298.434448242188,136
+3,Reinvestment of Profits,48-49,"Transportation, Postal Services and Warehousing",8647.108302116394,259
+3,Reinvestment of Profits,51,Mass Media Information,2365.771285057068,146
+3,Reinvestment of Profits,52,Financial and Insurance Services,40749.044189453125,558
+3,Reinvestment of Profits,53,Real Estate Services and Tangible and Intangible Goods Rental and Leasing,1001.2675590515137,150
+3,Reinvestment of Profits,54,"Professional, Scientific and Technical Services",746.6389379501343,204
+3,Reinvestment of Profits,55,Management and Administration of Business Groups or Corporations,0,0
+3,Reinvestment of Profits,56,"Business Support Services, Waste Management and Remediation Services",379.732994556427,85
+3,Reinvestment of Profits,61,Educational Services,0,0
+3,Reinvestment of Profits,62,Health Care and Social Assistance Services,0,0
+3,Reinvestment of Profits,71,Cultural and Sporting Recreation Services and other Recreational Services,63.881460189819336,20
+3,Reinvestment of Profits,72,Temporary Accommodation Services and Food and Beverage Preparation Services,1738.7234554290771,116
+3,Reinvestment of Profits,81,"Other Services, except Government Activities",2.368698477745056,6
+3,Reinvestment of Profits,93,"Legislative, Governmental and Justice Administration Activities, and Activities of International and Extraterritorial Organizations",0,0
