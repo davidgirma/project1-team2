@@ -42,11 +42,12 @@ Que paises son los que invierten mas en méxico y que sectores
 
 
 Datasources Owners:
-Producto-interno-bruto-anual -> Gerardo
-Main-Sectors-than-receive-Foreign-Direct-Investment-in-Mexico -> Martha
-economy_foreign_trade_mun_2024-07-17T02_19_32.214Z -> Ricardo
+(owners isnt who brought got the data, it is who is in charge of solving questions related to the data)
+Producto-interno-bruto-anual -> Gerardo @ https://www.economia.gob.mx/datamexico/es/profile/geo/mexico#gdp
+Main-Sectors-than-receive-Foreign-Direct-Investment-in-Mexico -> Martha @ ???
+economy_foreign_trade_mun_2024-07-17T02_19_32.214Z -> Ricardo @ https://www.economia.gob.mx/datamexico/en/vizbuilder?cube=economy_foreign_trade_mun&drilldowns%5B0%5D=Country&drilldowns%5B1%5D=Date.Year&drilldowns%5B2%5D=Geography.State&drilldowns%5B3%5D=Product+2+Digit.Chapter+2+Digit&measures%5B0%5D=Trade+Value
 dmx-diccionario-de-datos -> Ricardo
-Products-2023Click-on-the-Visualization-to-Select -> David
+Products-2023Click-on-the-Visualization-to-Select -> David @ 
 
 
 Otros:
