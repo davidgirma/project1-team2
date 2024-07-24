@@ -1,0 +1,641 @@
+Sector ID,Sector,Year,GDP
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",1993,79188.25
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",1994,81539.25
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",1995,100801.5
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",1996,150412.5
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",1997,174868.75
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",1998,199015.5
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",1999,210631.75
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2000,221672.75
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2001,239882.75
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2002,243471.25
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2003,264912.25
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2004,294648.25
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2005,294555
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2006,327259.5
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2007,366445.5
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2008,391550.25
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2009,395298.25
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2010,431895.75
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2011,454341.75
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2012,503927.75
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2013,512780.75
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2014,549051
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2015,593238.25
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2016,673890
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2017,743133.75
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2018,797094.5
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2019,832794.25
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2020,893895
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2021,1009594.25
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2022,1150923.5
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2023,1214427.5
+11,"Agriculture, animal breeding and production, forestry, fishing and hunting",2024,1153748
+21,Mining,1993,95249
+21,Mining,1994,98542.25
+21,Mining,1995,145586.25
+21,Mining,1996,186202.75
+21,Mining,1997,243776.75
+21,Mining,1998,261966.75
+21,Mining,1999,354053.5
+21,Mining,2000,425645.25
+21,Mining,2001,452697.25
+21,Mining,2002,490116.25
+21,Mining,2003,406554.75
+21,Mining,2004,568954.25
+21,Mining,2005,701964.25
+21,Mining,2006,803346.5
+21,Mining,2007,911656.75
+21,Mining,2008,1052692.75
+21,Mining,2009,782592
+21,Mining,2010,956298
+21,Mining,2011,1276203.25
+21,Mining,2012,1288602.75
+21,Mining,2013,1150324.5
+21,Mining,2014,1144157.25
+21,Mining,2015,716106.5
+21,Mining,2016,719496.5
+21,Mining,2017,887502.5
+21,Mining,2018,948326.25
+21,Mining,2019,1041792.75
+21,Mining,2020,894525.75
+21,Mining,2021,1005807.5
+21,Mining,2022,1040962.75
+21,Mining,2023,853058
+21,Mining,2024,823130
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",1993,20449.75
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",1994,23762
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",1995,33723.75
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",1996,47497
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",1997,59150
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",1998,70075.25
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",1999,94046
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2000,103213.25
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2001,113936.5
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2002,130229.75
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2003,148285.25
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2004,162942.5
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2005,174684.5
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2006,188981.25
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2007,205691.25
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2008,229790.75
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2009,240784.25
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2010,233256.75
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2011,224699.25
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2012,215170
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2013,235160.5
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2014,282425.25
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2015,276551.25
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2016,287138
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2017,422565.75
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2018,456906.5
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2019,515929.25
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2020,468536.25
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2021,423585.25
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2022,602588.5
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2023,650756
+22,"Electric power generation, transmission, distribution and commercialization, water and natural gas supply through pipelines to final consumers",2024,623564
+23,Construction,1993,89880
+23,Construction,1994,118033.5
+23,Construction,1995,116553.75
+23,Construction,1996,164629
+23,Construction,1997,211514.25
+23,Construction,1998,275707.5
+23,Construction,1999,335675.75
+23,Construction,2000,407311
+23,Construction,2001,421186.5
+23,Construction,2002,446831.75
+23,Construction,2003,491856
+23,Construction,2004,577730.75
+23,Construction,2005,620896
+23,Construction,2006,718683
+23,Construction,2007,781475
+23,Construction,2008,872979.75
+23,Construction,2009,833673.75
+23,Construction,2010,863939.5
+23,Construction,2011,957728.75
+23,Construction,2012,1024571.5
+23,Construction,2013,999173.5
+23,Construction,2014,1056212.5
+23,Construction,2015,1125725
+23,Construction,2016,1224522.5
+23,Construction,2017,1348496.25
+23,Construction,2018,1460789
+23,Construction,2019,1444470.75
+23,Construction,2020,1242089.75
+23,Construction,2021,1542192.25
+23,Construction,2022,1804381.25
+23,Construction,2023,2149423.5
+23,Construction,2024,2153883
+31-33,Manufacturing,1993,339313
+31-33,Manufacturing,1994,368239
+31-33,Manufacturing,1995,516595
+31-33,Manufacturing,1996,729511.5
+31-33,Manufacturing,1997,926912.75
+31-33,Manufacturing,1998,1131902
+31-33,Manufacturing,1999,1282969.75
+31-33,Manufacturing,2000,1476614
+31-33,Manufacturing,2001,1489359
+31-33,Manufacturing,2002,1505373.25
+31-33,Manufacturing,2003,1555109.75
+31-33,Manufacturing,2004,1742920.25
+31-33,Manufacturing,2005,1807634.75
+31-33,Manufacturing,2006,2112713.75
+31-33,Manufacturing,2007,2200022.75
+31-33,Manufacturing,2008,2349609
+31-33,Manufacturing,2009,2222578.5
+31-33,Manufacturing,2010,2491667.75
+31-33,Manufacturing,2011,2705625.25
+31-33,Manufacturing,2012,3107480.75
+31-33,Manufacturing,2013,3069151
+31-33,Manufacturing,2014,3306297.5
+31-33,Manufacturing,2015,3811769
+31-33,Manufacturing,2016,4124517.25
+31-33,Manufacturing,2017,4543710
+31-33,Manufacturing,2018,4881116
+31-33,Manufacturing,2019,4996165.75
+31-33,Manufacturing,2020,4861736.75
+31-33,Manufacturing,2021,5561091
+31-33,Manufacturing,2022,6299439.25
+31-33,Manufacturing,2023,6373904
+31-33,Manufacturing,2024,6263154
+43,Wholesale trade,1993,124107.5
+43,Wholesale trade,1994,138646.75
+43,Wholesale trade,1995,203685.5
+43,Wholesale trade,1996,289556.75
+43,Wholesale trade,1997,371437
+43,Wholesale trade,1998,450336.25
+43,Wholesale trade,1999,516767
+43,Wholesale trade,2000,598667.25
+43,Wholesale trade,2001,593741.5
+43,Wholesale trade,2002,605522
+43,Wholesale trade,2003,655180
+43,Wholesale trade,2004,740933.5
+43,Wholesale trade,2005,795570.5
+43,Wholesale trade,2006,882893
+43,Wholesale trade,2007,961866.25
+43,Wholesale trade,2008,1057092.5
+43,Wholesale trade,2009,1025227.25
+43,Wholesale trade,2010,1149905.75
+43,Wholesale trade,2011,1296070.25
+43,Wholesale trade,2012,1448572
+43,Wholesale trade,2013,1463191.25
+43,Wholesale trade,2014,1543654.75
+43,Wholesale trade,2015,1726367.75
+43,Wholesale trade,2016,1925216.5
+43,Wholesale trade,2017,2093583
+43,Wholesale trade,2018,2268261
+43,Wholesale trade,2019,2283927.5
+43,Wholesale trade,2020,2205644.25
+43,Wholesale trade,2021,2520003.25
+43,Wholesale trade,2022,2898400.25
+43,Wholesale trade,2023,3174123.5
+43,Wholesale trade,2024,3255216
+46,Retail trade,1993,142307
+46,Retail trade,1994,154463.75
+46,Retail trade,1995,219380.75
+46,Retail trade,1996,308788.5
+46,Retail trade,1997,370668.25
+46,Retail trade,1998,465353.75
+46,Retail trade,1999,534717.5
+46,Retail trade,2000,636852.25
+46,Retail trade,2001,648361.5
+46,Retail trade,2002,679815.75
+46,Retail trade,2003,715332.75
+46,Retail trade,2004,811230.25
+46,Retail trade,2005,881088.75
+46,Retail trade,2006,950399.75
+46,Retail trade,2007,1031665
+46,Retail trade,2008,1118279.5
+46,Retail trade,2009,1057352.25
+46,Retail trade,2010,1199092.5
+46,Retail trade,2011,1348939
+46,Retail trade,2012,1481426.75
+46,Retail trade,2013,1526027.5
+46,Retail trade,2014,1595616.25
+46,Retail trade,2015,1706380
+46,Retail trade,2016,1886970
+46,Retail trade,2017,2068379.5
+46,Retail trade,2018,2241444
+46,Retail trade,2019,2285467.5
+46,Retail trade,2020,2202613.5
+46,Retail trade,2021,2532723
+46,Retail trade,2022,2885977.25
+46,Retail trade,2023,3168331.5
+46,Retail trade,2024,3208977
+48-49,"Transportation, postal services and warehousingT ",1993,89392.75
+48-49,"Transportation, postal services and warehousingT ",1994,100598.25
+48-49,"Transportation, postal services and warehousingT ",1995,138120.75
+48-49,"Transportation, postal services and warehousingT ",1996,195435.5
+48-49,"Transportation, postal services and warehousingT ",1997,257772.25
+48-49,"Transportation, postal services and warehousingT ",1998,322671
+48-49,"Transportation, postal services and warehousingT ",1999,389841.25
+48-49,"Transportation, postal services and warehousingT ",2000,464545.5
+48-49,"Transportation, postal services and warehousingT ",2001,489614
+48-49,"Transportation, postal services and warehousingT ",2002,500701.25
+48-49,"Transportation, postal services and warehousingT ",2003,518435.5
+48-49,"Transportation, postal services and warehousingT ",2004,576555
+48-49,"Transportation, postal services and warehousingT ",2005,633664.5
+48-49,"Transportation, postal services and warehousingT ",2006,706907
+48-49,"Transportation, postal services and warehousingT ",2007,757598.75
+48-49,"Transportation, postal services and warehousingT ",2008,795661.75
+48-49,"Transportation, postal services and warehousingT ",2009,783644.75
+48-49,"Transportation, postal services and warehousingT ",2010,906561
+48-49,"Transportation, postal services and warehousingT ",2011,982169.25
+48-49,"Transportation, postal services and warehousingT ",2012,1077563.25
+48-49,"Transportation, postal services and warehousingT ",2013,1139509.25
+48-49,"Transportation, postal services and warehousingT ",2014,1217693.5
+48-49,"Transportation, postal services and warehousingT ",2015,1298929
+48-49,"Transportation, postal services and warehousingT ",2016,1379418.5
+48-49,"Transportation, postal services and warehousingT ",2017,1507077.25
+48-49,"Transportation, postal services and warehousingT ",2018,1653709.5
+48-49,"Transportation, postal services and warehousingT ",2019,1727448
+48-49,"Transportation, postal services and warehousingT ",2020,1475984.25
+48-49,"Transportation, postal services and warehousingT ",2021,1756849.75
+48-49,"Transportation, postal services and warehousingT ",2022,2101265.25
+48-49,"Transportation, postal services and warehousingT ",2023,2297831
+48-49,"Transportation, postal services and warehousingT ",2024,2409524
+51,Mass media information,1993,24247.25
+51,Mass media information,1994,29100.5
+51,Mass media information,1995,33240.25
+51,Mass media information,1996,43152.25
+51,Mass media information,1997,51156.5
+51,Mass media information,1998,68211.5
+51,Mass media information,1999,87756
+51,Mass media information,2000,106400
+51,Mass media information,2001,123668
+51,Mass media information,2002,133408.25
+51,Mass media information,2003,145529.5
+51,Mass media information,2004,172272
+51,Mass media information,2005,200751
+51,Mass media information,2006,233424
+51,Mass media information,2007,278026
+51,Mass media information,2008,295938
+51,Mass media information,2009,311310.25
+51,Mass media information,2010,325812.75
+51,Mass media information,2011,320085.5
+51,Mass media information,2012,326707.25
+51,Mass media information,2013,337229
+51,Mass media information,2014,344048.75
+51,Mass media information,2015,343544.5
+51,Mass media information,2016,328839
+51,Mass media information,2017,349938
+51,Mass media information,2018,371260.25
+51,Mass media information,2019,380308
+51,Mass media information,2020,345131.5
+51,Mass media information,2021,374964.25
+51,Mass media information,2022,420008.75
+51,Mass media information,2023,439478.75
+51,Mass media information,2024,430922
+52,Financial and insurance services,1993,64778
+52,Financial and insurance services,1994,68247.5
+52,Financial and insurance services,1995,83002
+52,Financial and insurance services,1996,71349.75
+52,Financial and insurance services,1997,71721
+52,Financial and insurance services,1998,87127.75
+52,Financial and insurance services,1999,111442.25
+52,Financial and insurance services,2000,113775.25
+52,Financial and insurance services,2001,153834.5
+52,Financial and insurance services,2002,162847.25
+52,Financial and insurance services,2003,187427.5
+52,Financial and insurance services,2004,216355.75
+52,Financial and insurance services,2005,281081.75
+52,Financial and insurance services,2006,304140.5
+52,Financial and insurance services,2007,358181
+52,Financial and insurance services,2008,391518.25
+52,Financial and insurance services,2009,412407.25
+52,Financial and insurance services,2010,439060.25
+52,Financial and insurance services,2011,458663.25
+52,Financial and insurance services,2012,486525.25
+52,Financial and insurance services,2013,568533
+52,Financial and insurance services,2014,599245.25
+52,Financial and insurance services,2015,620416.75
+52,Financial and insurance services,2016,727318.5
+52,Financial and insurance services,2017,815952.5
+52,Financial and insurance services,2018,886659.5
+52,Financial and insurance services,2019,936274
+52,Financial and insurance services,2020,935070.75
+52,Financial and insurance services,2021,936935
+52,Financial and insurance services,2022,1163784.25
+52,Financial and insurance services,2023,1296995
+52,Financial and insurance services,2024,1347749
+53,Real estate services and tangible and intangible goods rental and leasing,1993,186926.75
+53,Real estate services and tangible and intangible goods rental and leasing,1994,216424.5
+53,Real estate services and tangible and intangible goods rental and leasing,1995,291693.75
+53,Real estate services and tangible and intangible goods rental and leasing,1996,374871
+53,Real estate services and tangible and intangible goods rental and leasing,1997,457040.5
+53,Real estate services and tangible and intangible goods rental and leasing,1998,564628.25
+53,Real estate services and tangible and intangible goods rental and leasing,1999,643709.25
+53,Real estate services and tangible and intangible goods rental and leasing,2000,734373.75
+53,Real estate services and tangible and intangible goods rental and leasing,2001,793626.25
+53,Real estate services and tangible and intangible goods rental and leasing,2002,845344
+53,Real estate services and tangible and intangible goods rental and leasing,2003,927183.75
+53,Real estate services and tangible and intangible goods rental and leasing,2004,1006289.25
+53,Real estate services and tangible and intangible goods rental and leasing,2005,1071845.5
+53,Real estate services and tangible and intangible goods rental and leasing,2006,1173166.5
+53,Real estate services and tangible and intangible goods rental and leasing,2007,1258818.75
+53,Real estate services and tangible and intangible goods rental and leasing,2008,1365585.5
+53,Real estate services and tangible and intangible goods rental and leasing,2009,1408812
+53,Real estate services and tangible and intangible goods rental and leasing,2010,1494411.25
+53,Real estate services and tangible and intangible goods rental and leasing,2011,1582125.5
+53,Real estate services and tangible and intangible goods rental and leasing,2012,1656594.5
+53,Real estate services and tangible and intangible goods rental and leasing,2013,1727659.5
+53,Real estate services and tangible and intangible goods rental and leasing,2014,1816401.25
+53,Real estate services and tangible and intangible goods rental and leasing,2015,1896517
+53,Real estate services and tangible and intangible goods rental and leasing,2016,1974529
+53,Real estate services and tangible and intangible goods rental and leasing,2017,2044118.75
+53,Real estate services and tangible and intangible goods rental and leasing,2018,2120659.75
+53,Real estate services and tangible and intangible goods rental and leasing,2019,2226259.25
+53,Real estate services and tangible and intangible goods rental and leasing,2020,2278332.5
+53,Real estate services and tangible and intangible goods rental and leasing,2021,2414036.75
+53,Real estate services and tangible and intangible goods rental and leasing,2022,2559499.75
+53,Real estate services and tangible and intangible goods rental and leasing,2023,2722302.25
+53,Real estate services and tangible and intangible goods rental and leasing,2024,2778490
+54,"Professional, scientific and technical services",1993,20651
+54,"Professional, scientific and technical services",1994,24503.75
+54,"Professional, scientific and technical services",1995,31172
+54,"Professional, scientific and technical services",1996,43906.5
+54,"Professional, scientific and technical services",1997,59214.25
+54,"Professional, scientific and technical services",1998,78347.5
+54,"Professional, scientific and technical services",1999,102560.5
+54,"Professional, scientific and technical services",2000,129168
+54,"Professional, scientific and technical services",2001,149560.25
+54,"Professional, scientific and technical services",2002,163463
+54,"Professional, scientific and technical services",2003,189224.75
+54,"Professional, scientific and technical services",2004,208956.25
+54,"Professional, scientific and technical services",2005,226690.5
+54,"Professional, scientific and technical services",2006,241792.75
+54,"Professional, scientific and technical services",2007,260744.25
+54,"Professional, scientific and technical services",2008,281026.25
+54,"Professional, scientific and technical services",2009,278175.5
+54,"Professional, scientific and technical services",2010,282195.25
+54,"Professional, scientific and technical services",2011,304656
+54,"Professional, scientific and technical services",2012,323535.5
+54,"Professional, scientific and technical services",2013,333404.5
+54,"Professional, scientific and technical services",2014,347390.75
+54,"Professional, scientific and technical services",2015,374089
+54,"Professional, scientific and technical services",2016,404420.75
+54,"Professional, scientific and technical services",2017,414270.75
+54,"Professional, scientific and technical services",2018,435679.25
+54,"Professional, scientific and technical services",2019,453112.75
+54,"Professional, scientific and technical services",2020,461711.5
+54,"Professional, scientific and technical services",2021,492055.5
+54,"Professional, scientific and technical services",2022,546112.5
+54,"Professional, scientific and technical services",2023,599510.75
+54,"Professional, scientific and technical services",2024,565379
+55,Management and administration of business groups or corporations,1993,5933.25
+55,Management and administration of business groups or corporations,1994,8649
+55,Management and administration of business groups or corporations,1995,11579.5
+55,Management and administration of business groups or corporations,1996,15115.25
+55,Management and administration of business groups or corporations,1997,20713
+55,Management and administration of business groups or corporations,1998,22023
+55,Management and administration of business groups or corporations,1999,24387.25
+55,Management and administration of business groups or corporations,2000,27703.75
+55,Management and administration of business groups or corporations,2001,27860.5
+55,Management and administration of business groups or corporations,2002,29731.75
+55,Management and administration of business groups or corporations,2003,36957
+55,Management and administration of business groups or corporations,2004,42847.75
+55,Management and administration of business groups or corporations,2005,47112.25
+55,Management and administration of business groups or corporations,2006,55771.5
+55,Management and administration of business groups or corporations,2007,57089
+55,Management and administration of business groups or corporations,2008,67883
+55,Management and administration of business groups or corporations,2009,64446
+55,Management and administration of business groups or corporations,2010,68251.5
+55,Management and administration of business groups or corporations,2011,72933.75
+55,Management and administration of business groups or corporations,2012,83555.75
+55,Management and administration of business groups or corporations,2013,83335.25
+55,Management and administration of business groups or corporations,2014,94081.75
+55,Management and administration of business groups or corporations,2015,101050.75
+55,Management and administration of business groups or corporations,2016,104451.75
+55,Management and administration of business groups or corporations,2017,113170
+55,Management and administration of business groups or corporations,2018,126888
+55,Management and administration of business groups or corporations,2019,129557.5
+55,Management and administration of business groups or corporations,2020,144695.25
+55,Management and administration of business groups or corporations,2021,167061.5
+55,Management and administration of business groups or corporations,2022,181189.75
+55,Management and administration of business groups or corporations,2023,196712
+55,Management and administration of business groups or corporations,2024,198805
+56,"Business support services, waste management and remediation services",1993,53051.25
+56,"Business support services, waste management and remediation services",1994,65023.25
+56,"Business support services, waste management and remediation services",1995,84520
+56,"Business support services, waste management and remediation services",1996,115744.5
+56,"Business support services, waste management and remediation services",1997,147046.25
+56,"Business support services, waste management and remediation services",1998,178851.5
+56,"Business support services, waste management and remediation services",1999,216874.25
+56,"Business support services, waste management and remediation services",2000,256381.75
+56,"Business support services, waste management and remediation services",2001,267404
+56,"Business support services, waste management and remediation services",2002,283693.25
+56,"Business support services, waste management and remediation services",2003,303077.25
+56,"Business support services, waste management and remediation services",2004,329959.75
+56,"Business support services, waste management and remediation services",2005,360560
+56,"Business support services, waste management and remediation services",2006,390780
+56,"Business support services, waste management and remediation services",2007,419879.5
+56,"Business support services, waste management and remediation services",2008,452408
+56,"Business support services, waste management and remediation services",2009,449788
+56,"Business support services, waste management and remediation services",2010,463205.5
+56,"Business support services, waste management and remediation services",2011,505373.75
+56,"Business support services, waste management and remediation services",2012,554329
+56,"Business support services, waste management and remediation services",2013,587346.5
+56,"Business support services, waste management and remediation services",2014,607764.5
+56,"Business support services, waste management and remediation services",2015,634522
+56,"Business support services, waste management and remediation services",2016,668837.25
+56,"Business support services, waste management and remediation services",2017,741150.75
+56,"Business support services, waste management and remediation services",2018,793516.5
+56,"Business support services, waste management and remediation services",2019,839434
+56,"Business support services, waste management and remediation services",2020,824429.5
+56,"Business support services, waste management and remediation services",2021,655910
+56,"Business support services, waste management and remediation services",2022,269767.75
+56,"Business support services, waste management and remediation services",2023,269699.25
+56,"Business support services, waste management and remediation services",2024,266324
+61,Educational services,1993,51212.75
+61,Educational services,1994,61798.25
+61,Educational services,1995,74717.5
+61,Educational services,1996,95301
+61,Educational services,1997,121768.5
+61,Educational services,1998,154942.75
+61,Educational services,1999,191435
+61,Educational services,2000,227260
+61,Educational services,2001,263234.5
+61,Educational services,2002,292296.75
+61,Educational services,2003,327640.25
+61,Educational services,2004,347139.5
+61,Educational services,2005,381518
+61,Educational services,2006,415836.75
+61,Educational services,2007,449713.5
+61,Educational services,2008,489869.5
+61,Educational services,2009,517381.25
+61,Educational services,2010,548074.75
+61,Educational services,2011,586615.75
+61,Educational services,2012,644330
+61,Educational services,2013,678644
+61,Educational services,2014,723383
+61,Educational services,2015,774964.5
+61,Educational services,2016,803258.5
+61,Educational services,2017,834349.5
+61,Educational services,2018,877923.75
+61,Educational services,2019,922039.75
+61,Educational services,2020,923233.5
+61,Educational services,2021,960094
+61,Educational services,2022,1013552
+61,Educational services,2023,1090980.5
+61,Educational services,2024,1130430
+62,Health care and social assistance services,1993,30217.25
+62,Health care and social assistance services,1994,34293
+62,Health care and social assistance services,1995,42063
+62,Health care and social assistance services,1996,50907.75
+62,Health care and social assistance services,1997,62537
+62,Health care and social assistance services,1998,82427.75
+62,Health care and social assistance services,1999,106178.25
+62,Health care and social assistance services,2000,125865.5
+62,Health care and social assistance services,2001,149197.25
+62,Health care and social assistance services,2002,164184
+62,Health care and social assistance services,2003,181276.25
+62,Health care and social assistance services,2004,193300.5
+62,Health care and social assistance services,2005,202478.25
+62,Health care and social assistance services,2006,218776.25
+62,Health care and social assistance services,2007,236802
+62,Health care and social assistance services,2008,263745.75
+62,Health care and social assistance services,2009,280689.5
+62,Health care and social assistance services,2010,303272.5
+62,Health care and social assistance services,2011,335398.5
+62,Health care and social assistance services,2012,360531.25
+62,Health care and social assistance services,2013,390243.75
+62,Health care and social assistance services,2014,409696.25
+62,Health care and social assistance services,2015,440662.75
+62,Health care and social assistance services,2016,464940.5
+62,Health care and social assistance services,2017,504103.75
+62,Health care and social assistance services,2018,547676.75
+62,Health care and social assistance services,2019,586929.25
+62,Health care and social assistance services,2020,641404.5
+62,Health care and social assistance services,2021,702263.25
+62,Health care and social assistance services,2022,734842
+62,Health care and social assistance services,2023,789999.75
+62,Health care and social assistance services,2024,825900
+71,Cultural and sporting recreation services and other recreational services,1993,11986.25
+71,Cultural and sporting recreation services and other recreational services,1994,13898.5
+71,Cultural and sporting recreation services and other recreational services,1995,15278.5
+71,Cultural and sporting recreation services and other recreational services,1996,18273
+71,Cultural and sporting recreation services and other recreational services,1997,24072.5
+71,Cultural and sporting recreation services and other recreational services,1998,28358.25
+71,Cultural and sporting recreation services and other recreational services,1999,33466.5
+71,Cultural and sporting recreation services and other recreational services,2000,38450
+71,Cultural and sporting recreation services and other recreational services,2001,40487
+71,Cultural and sporting recreation services and other recreational services,2002,44689.75
+71,Cultural and sporting recreation services and other recreational services,2003,47985.75
+71,Cultural and sporting recreation services and other recreational services,2004,50949.5
+71,Cultural and sporting recreation services and other recreational services,2005,53477.75
+71,Cultural and sporting recreation services and other recreational services,2006,59897.5
+71,Cultural and sporting recreation services and other recreational services,2007,66184.25
+71,Cultural and sporting recreation services and other recreational services,2008,69358.5
+71,Cultural and sporting recreation services and other recreational services,2009,70686.5
+71,Cultural and sporting recreation services and other recreational services,2010,77032.75
+71,Cultural and sporting recreation services and other recreational services,2011,79601.5
+71,Cultural and sporting recreation services and other recreational services,2012,84123.75
+71,Cultural and sporting recreation services and other recreational services,2013,89599.75
+71,Cultural and sporting recreation services and other recreational services,2014,90429.25
+71,Cultural and sporting recreation services and other recreational services,2015,96306
+71,Cultural and sporting recreation services and other recreational services,2016,102480.5
+71,Cultural and sporting recreation services and other recreational services,2017,107935.25
+71,Cultural and sporting recreation services and other recreational services,2018,115524.25
+71,Cultural and sporting recreation services and other recreational services,2019,117958.25
+71,Cultural and sporting recreation services and other recreational services,2020,71548
+71,Cultural and sporting recreation services and other recreational services,2021,93885
+71,Cultural and sporting recreation services and other recreational services,2022,135556
+71,Cultural and sporting recreation services and other recreational services,2023,152166.5
+71,Cultural and sporting recreation services and other recreational services,2024,140145
+72,Temporary accommodation services and food and beverage preparation services,1993,60417.75
+72,Temporary accommodation services and food and beverage preparation services,1994,68732.5
+72,Temporary accommodation services and food and beverage preparation services,1995,74639.25
+72,Temporary accommodation services and food and beverage preparation services,1996,95240.25
+72,Temporary accommodation services and food and beverage preparation services,1997,123957
+72,Temporary accommodation services and food and beverage preparation services,1998,155720
+72,Temporary accommodation services and food and beverage preparation services,1999,188672
+72,Temporary accommodation services and food and beverage preparation services,2000,228763.75
+72,Temporary accommodation services and food and beverage preparation services,2001,251680.5
+72,Temporary accommodation services and food and beverage preparation services,2002,258431.75
+72,Temporary accommodation services and food and beverage preparation services,2003,265993.75
+72,Temporary accommodation services and food and beverage preparation services,2004,283115
+72,Temporary accommodation services and food and beverage preparation services,2005,297977.5
+72,Temporary accommodation services and food and beverage preparation services,2006,311223
+72,Temporary accommodation services and food and beverage preparation services,2007,328899
+72,Temporary accommodation services and food and beverage preparation services,2008,334148.5
+72,Temporary accommodation services and food and beverage preparation services,2009,313739.75
+72,Temporary accommodation services and food and beverage preparation services,2010,332259.5
+72,Temporary accommodation services and food and beverage preparation services,2011,354696.25
+72,Temporary accommodation services and food and beverage preparation services,2012,386492.25
+72,Temporary accommodation services and food and beverage preparation services,2013,403857
+72,Temporary accommodation services and food and beverage preparation services,2014,426747.75
+72,Temporary accommodation services and food and beverage preparation services,2015,481730.5
+72,Temporary accommodation services and food and beverage preparation services,2016,515087.5
+72,Temporary accommodation services and food and beverage preparation services,2017,550618
+72,Temporary accommodation services and food and beverage preparation services,2018,583973.75
+72,Temporary accommodation services and food and beverage preparation services,2019,620873.25
+72,Temporary accommodation services and food and beverage preparation services,2020,391489.75
+72,Temporary accommodation services and food and beverage preparation services,2021,517136.25
+72,Temporary accommodation services and food and beverage preparation services,2022,684095
+72,Temporary accommodation services and food and beverage preparation services,2023,753984.25
+72,Temporary accommodation services and food and beverage preparation services,2024,760555
+81,"Other services, except government activities",1993,47910
+81,"Other services, except government activities",1994,53213
+81,"Other services, except government activities",1995,62088
+81,"Other services, except government activities",1996,76762.25
+81,"Other services, except government activities",1997,95897.75
+81,"Other services, except government activities",1998,114197.5
+81,"Other services, except government activities",1999,136252.75
+81,"Other services, except government activities",2000,157133
+81,"Other services, except government activities",2001,170411.75
+81,"Other services, except government activities",2002,180954.25
+81,"Other services, except government activities",2003,191555.75
+81,"Other services, except government activities",2004,205196
+81,"Other services, except government activities",2005,220529.5
+81,"Other services, except government activities",2006,239851.25
+81,"Other services, except government activities",2007,259377.75
+81,"Other services, except government activities",2008,274683.75
+81,"Other services, except government activities",2009,284189.25
+81,"Other services, except government activities",2010,299547.5
+81,"Other services, except government activities",2011,314049.75
+81,"Other services, except government activities",2012,335616.5
+81,"Other services, except government activities",2013,353924
+81,"Other services, except government activities",2014,367996
+81,"Other services, except government activities",2015,393051
+81,"Other services, except government activities",2016,416236
+81,"Other services, except government activities",2017,434051.25
+81,"Other services, except government activities",2018,450854.5
+81,"Other services, except government activities",2019,478427.75
+81,"Other services, except government activities",2020,438288.75
+81,"Other services, except government activities",2021,487947.75
+81,"Other services, except government activities",2022,552142.25
+81,"Other services, except government activities",2023,602644.25
+81,"Other services, except government activities",2024,641855
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",1993,48618.5
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",1994,58430.25
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",1995,68887.5
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",1996,89482.75
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",1997,118030.25
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",1998,142883.75
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",1999,177572.75
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2000,225853
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2001,246102.75
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2002,282984.5
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2003,306787.25
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2004,325724
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2005,349805.75
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2006,383471.5
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2007,419277
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2008,458265
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2009,512246
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2010,559016
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2011,602369
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2012,657184
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2013,670719
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2014,712630
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2015,745952.75
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2016,768845.5
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2017,799990.25
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2018,855373
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2019,872942.25
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2020,917283
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2021,955276
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2022,1009661.25
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2023,1079732
+93,"Legislative, governmental and justice administration activities, and activities of international and extraterritorial organizations",2024,1087702
